@@ -1,0 +1,39 @@
+{
+  "squadName": "计科四班三巨佬",
+  "homeTown": "China",
+  "formed": 2018,
+  "secretBase": "成都大学",
+  "active": true,
+  "members": [
+​    {
+​      "name": "唐浩洋",
+​      "age": 20,
+​      "secretIdentity": "唐巨佬",
+​      "powers": [
+​        "精通安卓",
+​        "熟悉linux操作系统",
+​        "苹果大师"
+​      ]
+​    },
+​    {
+​      "name": "金文杰",
+​      "age": 21,
+​      "secretIdentity": "金巨佬",
+​      "powers": [
+​        "有钱",
+​        "精通安卓",
+​        "帅"
+​      ]
+​    },
+​    {
+​      "name": "刘奇",
+​      "age": 21,
+​      "secretIdentity": "刘巨佬",
+​      "powers": [
+​        "爱学习",
+​        "精通Java，C/C++，JavaScript等",
+​        "动漫大师",
+​      ]
+​    }
+  ]
+}
