@@ -1,13 +1,38 @@
 {
-"Name" : "张家义",
-"idCard" : "511521xxxxxxxx13y" ,
-"Email" : "2393790565@qq.com",
-"active" : true,
-"information" : {
-	"sex" : "男" ,
-	"Loves" : [
-	  "喜欢英雄联盟" ,
-	  "看爱奇艺视频"  
-	] 
-  }
+  "state": "计科四班三巨佬",
+  "country": "China",
+  "year": 2018,
+  "school": "成都大学",
+  "active": true,
+  "people": [
+​    {
+​      "name": "唐浩洋",
+​      "age": 20,
+​      "otherName": "唐神仙",
+​      "feature": [
+​        "精通安卓",
+​        "熟悉linux操作系统",
+​        "苹果大师"
+​      ]
+​    },
+​    {
+​      "name": "金文杰",
+​      "age": 21,
+​      "otherName": "金巨佬",
+​      "feature": [
+​        "有钱",
+​        "精通安卓",
+​        "帅"
+​      ]
+​    },
+​    {
+​      "name": "刘奇",
+​      "age": 21,
+​      "otherName": "刘神仙",
+​      "powers": [
+​        "爱学习",
+​        "精通Java，C/C++，JavaScript等"
+​      ]
+​    }
+  ]
 }
