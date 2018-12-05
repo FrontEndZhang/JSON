@@ -1,38 +1,39 @@
 {
-  "state": "计科四班三巨佬",
+  "state": "计科四班",
   "country": "China",
   "year": 2018,
   "school": "成都大学",
   "active": true,
-  "people": [
-​    {
-​      "name": "唐浩洋",
-​      "age": 20,
-​      "otherName": "唐神仙",
-​      "feature": [
-​        "精通安卓",
-​        "熟悉linux操作系统",
-​        "苹果大师"
-​      ]
-​    },
-​    {
-​      "name": "金文杰",
-​      "age": 21,
-​      "otherName": "金巨佬",
-​      "feature": [
-​        "有钱",
-​        "精通安卓",
-​        "帅"
-​      ]
-​    },
-​    {
-​      "name": "刘奇",
-​      "age": 21,
-​      "otherName": "刘神仙",
-​      "powers": [
-​        "爱学习",
-​        "精通Java，C/C++，JavaScript等"
-​      ]
-​    }
+  "members": [
+    {
+      "name": "金文杰",
+      "age": 21,
+      "otherName": "金巨佬",
+      "feature": [
+       "有钱",
+      "精通安卓",
+        "帅"
+      ]
+    },
+    {
+       "name": "唐浩洋",
+      "age": 35,
+      "otherName": "唐神仙",
+      "feature": [
+        "精通安卓" ,
+        "熟悉linux操作系统" ,
+        "苹果玩的贼6"
+      ]
+    },
+    {
+      "name": "许翔宇",
+      "age": 22,
+      "otherName": "许信安",
+      "feature": [
+       "挖洞管一年",
+      "装备不花一分钱",
+        "四班最高的人"
+      ]
+    }
   ]
 }
