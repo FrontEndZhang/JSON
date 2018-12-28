@@ -1,0 +1,34 @@
+{
+  "GameName" : "Jue Di Qiu Sheng",
+  "TheGameCategory" : "shooting game",
+  "gun" : [
+    {
+      "SniperRifle" : "kr98k",
+      "Bullet" : "7.62mm",
+      "ComeFrom" : "Germany",
+      "mountings" : [
+        "GunSight",
+        "Sandolier"
+      ]
+    },
+    {
+      "Rifle" : "M4",
+      "Bullet" : "5.56mm",
+      "ComeFrom" : "US",
+      "mountings" : [
+        "GunSight",
+        "MuzzleCompensator",
+        "Grip"
+      ]
+    },
+    {
+      "SubmachelloneGun" : "ThomsonSubmachineGun",
+      "Bullet" : "4.5mm",
+      "ComeFrom" : "US",
+      "mountings" : [
+        "Grip",
+        "ExpansionMagazine"
+      ]
+    }
+  ]
+}
